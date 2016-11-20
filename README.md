@@ -8,7 +8,8 @@
 4. Zach Weatherly, CSE Junior
 
 ##Code Purpose
-Algorithmic trading
+The goals of our project was to offer a simple and streamline way to identify
+meanful predictive metrics for the development of trading algorithms.
 
 ##Front End
 user oriented
