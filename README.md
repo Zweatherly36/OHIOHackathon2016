@@ -12,7 +12,7 @@ The goal of our project was to offer a simple and streamlined tool to identify
 meanful predictive metrics for the development of trading algorithms.
 
 ##Front End Framework
-1. *Material Design Bootstrap Library* - Styling
+1. *Material Design Bootstrap Library*
 2. *HTML5*
 3. *JavaScript*
 4. *JQuery*
