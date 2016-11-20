@@ -1,8 +1,8 @@
 # OHIOHackathon2016
 
-Team Members 
+##Team Members 
 
-*Brandon Minner
-*Brett Whitford
-*Kurtis Kuszmaul
-*Zach Weatherly
+###Brandon Minner
+###Brett Whitford
+###Kurtis Kuszmaul
+###Zach Weatherly
