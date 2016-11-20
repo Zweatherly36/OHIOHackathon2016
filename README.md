@@ -2,10 +2,10 @@
 
 ##Team Members 
 
-Brandon Minner
-Brett Whitford
-Kurtis Kuszmaul
-Zach Weatherly
+1. Brandon Minner
+2. Brett Whitford
+3. Kurtis Kuszmaul
+4. Zach Weatherly
 
 ##Code Purpose
 Algorithmic trading
