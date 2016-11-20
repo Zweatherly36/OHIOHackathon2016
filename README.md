@@ -8,11 +8,11 @@
 4. Zach Weatherly, CSE Junior
 
 ##Code Purpose
-The goals of our project was to offer a simple and streamline way to identify
+The goal of our project was to offer a simple and streamlined tool to identify
 meanful predictive metrics for the development of trading algorithms.
 
-##Front End
-user oriented
+##Front End Framework
 
-##Back End
-zipline API
+
+##Back End Framework
+zipline API - Python algorithmic trading library. Event driven system for backtesting of user's generated metrics
