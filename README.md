@@ -16,5 +16,5 @@ meanful predictive metrics for the development of trading algorithms.
 2. 
 
 ##Back End Framework
-1. zipline API - Python algorithmic trading library. Event driven system for backtesting of user's generated metrics
-2. Google Cloud Prediction API - 
+1. *Zipline API* - Python algorithmic trading library. Event driven system for backtesting of user's generated metrics
+2. *Google Cloud Prediction API* - 
